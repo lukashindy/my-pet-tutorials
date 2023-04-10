@@ -16,6 +16,7 @@
     <description>Pet Tutorials For Future</description>
     <modules>
         <module>simple-rest-controller-pet</module>
+        <module>rest-template-pet</module>
     </modules>
 
     <properties>
