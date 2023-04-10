@@ -17,6 +17,7 @@
     <modules>
         <module>simple-rest-controller-pet</module>
         <module>rest-template-pet</module>
+        <module>utilitites-pet-project</module>
     </modules>
 
     <properties>
